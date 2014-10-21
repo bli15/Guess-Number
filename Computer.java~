@@ -1,0 +1,11 @@
+public class Computer
+{
+ public int play(int prevGuess);
+ {
+   if (prevGuess == 0)
+   {
+   System.out.println("I guess 5!");
+   return 5;
+   }
+ }
+}
